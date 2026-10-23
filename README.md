@@ -123,6 +123,8 @@ Unity version used: **6000.3.0f1**.
 
 <img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/45bcc886-4d43-48ea-8197-a329d84ab5a9" />
 
+## Lab 10 — Unity
+<img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/edc758ee-5603-4ddd-bd11-a74fa4d0f408" />
 
 ## Notes
 
