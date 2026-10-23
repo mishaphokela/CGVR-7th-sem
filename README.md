@@ -121,6 +121,9 @@ The Lab 9 folder contains the C# scripts and automatic scene builder for the int
 
 Unity version used: **6000.3.0f1**.
 
+<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/45bcc886-4d43-48ea-8197-a329d84ab5a9" />
+
+
 ## Notes
 
 - Output screenshots were consolidated from the individual lab repositories.
